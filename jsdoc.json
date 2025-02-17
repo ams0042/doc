@@ -1,0 +1,10 @@
+{
+    "source": {
+      "include": ["js"],
+      "exclude": ["node_modules", "out"]
+    },
+    "opts": {
+      "destination": "./docs"
+    }
+  }
+  
